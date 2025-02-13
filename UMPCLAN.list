@@ -1,0 +1,8 @@
+# NAME: OpenAI
+# AUTHOR: rikoshen
+# REPO: https://github.com/AliceAmamiya/surge-configs
+
+DOMAIN-SUFFIX,umac.mo
+DOMAIN-SUFFIX,pclan.umac.mo
+DOMAIN-SUFFIX,um.edu.mo
+IP-CIDR,161.64.0.0/17
